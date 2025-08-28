@@ -22,11 +22,6 @@ O sistema adiciona a funcionalidade de **maca hospitalar (stretcher)**, permitin
 
 ---
 
-## 📸 Demonstração
-> *Adicione aqui prints de tela ou GIFs mostrando o funcionamento do script.*
-
----
-
 ## ⚙️ Instalação
 1. Adicione no seu server.cfg:
 > *ensure Cali-Maca*
